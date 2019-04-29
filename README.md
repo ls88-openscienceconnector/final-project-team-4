@@ -17,7 +17,7 @@ This repo contains a few subfolders which contain the elements of this project.
 | `images`  | image files used in the Jupyter Notebooks  |
 | `notebooks`  | Jupyter Notebook files, including reproduction analysis using both `pandas` and `datascience`, as well as the Pre-Analysis Plan  |
 | `output`  | output data which consists of powerpoint presentation  |
-| `subassignments`  | Markdown files with submissions for final project sub-assignments  |
+| `subassignments`  | Markdown files with submissions for final project sub-assignments including the project briefing  |
 
 
 

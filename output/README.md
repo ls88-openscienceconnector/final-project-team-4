@@ -1,3 +1,3 @@
 # Output
 
-This folder contains output from this project. The final presentation is blank but will be updated as the project progresses
+This folder contains output from this project. The final presentation shows our findings from this project.
